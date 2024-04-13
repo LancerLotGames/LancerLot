@@ -1,7 +1,7 @@
 import React from 'react';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
-import SnakePromo from '../assets/media/SnakePromo.mp4'
+import SnakePromo from '../assets/media/SnakePromo1080p.mp4'
 
 function Snake() {
   return (
@@ -12,12 +12,12 @@ function Snake() {
         </video>
       </div>
       <div className='promo-content'>
-        <Typography variant='h4' noWrap color='secondary' fontFamily='cursive'>
+        <Typography variant='h4' noWrap color='secondary.light' fontFamily='cursive' padding='10px'>
           Snake 3d
         </Typography>
-        <Typography variant='body1' color='secondary.light' letterSpacing='.1rem'>
-          Coming Soon.
-          Snake game in 3d.
+        <Typography variant='body1' color='secondary' letterSpacing='.05rem' fontStyle='italic'>
+          Coming Soon. Snake game in 3d.
+          <br/>More updates on Social Media.
         </Typography>
       </div>
       <Grid className='bottom' container direction='row' justifyContent='center'>

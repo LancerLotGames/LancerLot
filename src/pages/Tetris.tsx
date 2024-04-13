@@ -30,12 +30,13 @@ function Tetris() {
         </video>
       </div>
       <div className='promo-content'>
-        <Typography variant='h3' noWrap color='secondary.light' fontFamily='cursive'>
+        <Typography variant='h4' noWrap color='secondary.light' fontFamily='cursive' padding='10px'>
           Tetris
         </Typography>
-        <Typography variant='h6' color='secondary' letterSpacing='.05rem' fontStyle={'italic'}>
+        <Typography variant='body1' color='secondary' letterSpacing='.05rem' fontStyle={'italic'}>
           A nostalgic game which will take you back to childhood drowning you in nostalgia.
           Control the falling pieces to free the rows, falling speed gradually increases.
+          <br/> More updates on Social Media.
         </Typography>
       </div>
       <Grid className='bottom' container direction='row' justifyContent='center'>

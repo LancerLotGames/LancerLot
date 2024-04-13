@@ -37,7 +37,7 @@
   object-fit: cover; /* Ensure video fills the container while maintaining aspect ratio */
 }
 .promo-content {
-  background: rgba(5, 0, 0, 0.2);
+  background: rgba(5, 0, 0, 0.3);
   padding: 15px;
 }
 .badge{

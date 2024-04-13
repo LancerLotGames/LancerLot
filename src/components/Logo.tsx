@@ -2,18 +2,20 @@ import React from 'react';
 import Typography from '@mui/material/Typography';
 import {Link} from 'react-router-dom';
 import logo from '../assets/media/logo.png';
+import {Tooltip} from "@mui/material";
 
 function Logo() {
   return (
     <>
-      <Link to={'/'}>
-        <img style={{height:100}} src={logo} className='App-logo' alt='logo'/>
-      </Link>
+      <Tooltip title='Home' placement={'bottom'}>
+        <Link to={'/'}>
+            <img style={{height:100}} src={logo} className='App-logo' alt='logo'/>
+        </Link>
+      </Tooltip>
       <Typography
         variant='h6'
         noWrap
         component='a'
-        href='/'
         sx={{
           mr: 2,
           display: { xs: 'flex', md: 'flex' },
