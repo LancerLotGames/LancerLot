@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lancerlot/static/css/main.cd0fbcb6.css",
+    "main.js": "/lancerlot/static/js/main.9d3ac04d.js",
+    "static/js/453.78f1f908.chunk.js": "/lancerlot/static/js/453.78f1f908.chunk.js",
+    "static/media/SnakePromo1080p.mp4": "/lancerlot/static/media/SnakePromo1080p.b0083428cc7b1db967dd.mp4",
+    "static/media/TetrisPromo.mp4": "/lancerlot/static/media/TetrisPromo.8690ddcb272656136919.mp4",
+    "static/media/snakeScene.png": "/lancerlot/static/media/snakeScene.0f43201a2e18675a254f.png",
+    "static/media/tetrisSmiley.png": "/lancerlot/static/media/tetrisSmiley.d303d602aed15cee3fda.png",
+    "static/media/logo.png": "/lancerlot/static/media/logo.06348d01604799658c40.png",
+    "index.html": "/lancerlot/index.html",
+    "main.cd0fbcb6.css.map": "/lancerlot/static/css/main.cd0fbcb6.css.map",
+    "main.9d3ac04d.js.map": "/lancerlot/static/js/main.9d3ac04d.js.map",
+    "453.78f1f908.chunk.js.map": "/lancerlot/static/js/453.78f1f908.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0fbcb6.css",
+    "static/js/main.9d3ac04d.js"
+  ]
+}
