@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LancerLot/static/css/main.cd0fbcb6.css",
-    "main.js": "/LancerLot/static/js/main.e3781c48.js",
+    "main.js": "/LancerLot/static/js/main.0e083db2.js",
     "static/js/453.78f1f908.chunk.js": "/LancerLot/static/js/453.78f1f908.chunk.js",
     "static/media/SnakePromo1080p.mp4": "/LancerLot/static/media/SnakePromo1080p.b0083428cc7b1db967dd.mp4",
     "static/media/TetrisPromo.mp4": "/LancerLot/static/media/TetrisPromo.8690ddcb272656136919.mp4",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/LancerLot/static/media/logo.06348d01604799658c40.png",
     "index.html": "/LancerLot/index.html",
     "main.cd0fbcb6.css.map": "/LancerLot/static/css/main.cd0fbcb6.css.map",
-    "main.e3781c48.js.map": "/LancerLot/static/js/main.e3781c48.js.map",
+    "main.0e083db2.js.map": "/LancerLot/static/js/main.0e083db2.js.map",
     "453.78f1f908.chunk.js.map": "/LancerLot/static/js/453.78f1f908.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd0fbcb6.css",
-    "static/js/main.e3781c48.js"
+    "static/js/main.0e083db2.js"
   ]
 }
